@@ -1,0 +1,9 @@
++----------+----------+--------------------+--------+
+| name     | owner    | number_of_children | gender |
++----------+----------+--------------------+--------+
+| aliot    | richard  |                  2 | f      |
+| bobbi    | charlton |                  1 | m      |
+| poppoi   | ruth     |                  3 | m      |
+| xhamster | romeo    |               NULL | m      |
+| zingo    | felicia  |                  2 | m      |
++----------+----------+--------------------+--------+
