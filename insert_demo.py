@@ -4,7 +4,6 @@ conn = mysql.connector.connect(
   host = "localhost",
   user = "root",
   database = "StudentAttendanceSystem",
-#   password="ftpiptf0"
 )
 
 cursor = conn.cursor()
